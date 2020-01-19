@@ -1,2 +1,5 @@
-﻿  main.cpp
+﻿  engine.cpp
+  main.cpp
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
   block.vcxproj -> D:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\Debug\block.exe
