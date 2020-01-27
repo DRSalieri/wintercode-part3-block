@@ -1,15 +1,17 @@
 ﻿  main.cpp
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(42): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(43): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(44): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
 d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(45): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(46): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
 d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(47): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
 d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(48): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(96): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(97): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(80): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(93): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(94): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(126): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(49): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(50): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(98): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(99): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(89): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(105): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(106): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(122): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(123): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\main.cpp(155): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
   block.vcxproj -> D:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\Debug\block.exe
