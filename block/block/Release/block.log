@@ -1,0 +1,29 @@
+﻿  engine.cpp
+  graphics.cpp
+  main.cpp
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(74): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(76): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(80): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(108): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(109): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(111): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(112): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(113): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(114): warning C4244: “=”: 从“double”转换到“FLOAT”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(162): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(163): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(320): warning C4018: “<”: 有符号/无符号不匹配
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\block.h(322): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\menu.h(34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\menu.h(35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\game.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\game.h(60): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\game.h(61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\game.h(75): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\game.h(76): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\block\game.h(108): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  win.cpp
+graphics.obj : error LNK2001: 无法解析的外部符号 _IID_IWICImagingFactory
+graphics.obj : error LNK2001: 无法解析的外部符号 __imp__DWriteCreateFactory@12
+graphics.obj : error LNK2001: 无法解析的外部符号 _D2D1CreateFactory@16
+D:\陈智骐\czq作业\大学\wintercode\打砖块\wintercode-part3-block\block\Release\block.exe : fatal error LNK1120: 3 个无法解析的外部命令
